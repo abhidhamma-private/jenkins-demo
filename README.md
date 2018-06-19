@@ -1,2 +1,2 @@
 # jenkins_demo
-젠킨스연습
+스프링부트 rest 연습
